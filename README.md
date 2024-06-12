@@ -9,9 +9,9 @@
 - Pull Requests: Simulate the process of opening and merging pull requests.
 - Issues: Create and manage issues for repositories.
 # Expected Outputs
-![1st](https://github.com/Ifra-Zaib/GitHub-Simulation-Implementation/assets/172352661/9e4c513c-001b-48cd-bd85-975cb97dc08f)
-![2nd](https://github.com/Ifra-Zaib/GitHub-Simulation-Implementation/assets/172352661/6a9b5fb0-c5bd-48c8-91d4-e993af38c844)
-![3rd](https://github.com/Ifra-Zaib/GitHub-Simulation-Implementation/assets/172352661/2b123007-d842-4bd3-b511-68406a03d1cd)
+![1st](https://github.com/Ifra-Zaib/Github-Project/assets/172352661/b0cc2173-d133-4517-b5fc-47a0bf9ec9d1)
+![2nd](https://github.com/Ifra-Zaib/Github-Project/assets/172352661/7c3138ba-412b-429a-a904-cedfc7e1472c)
+![3rd](https://github.com/Ifra-Zaib/Github-Project/assets/172352661/b6fa424e-a168-4ec3-9395-2feaf87e12a8)
 
 
  
